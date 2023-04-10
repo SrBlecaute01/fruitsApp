@@ -2,7 +2,7 @@ import { StyleSheet, Text, View } from "react-native";
 import { Component } from "react";
 
 export class FruitCard extends Component {
-
+	
 	render() {
 		return (
 			<View style={style.card}>
@@ -10,7 +10,7 @@ export class FruitCard extends Component {
 			</View>
 		)
 	}
-
+	
 }
 
 const style = StyleSheet.create({

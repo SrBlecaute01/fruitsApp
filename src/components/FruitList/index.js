@@ -1,6 +1,6 @@
 import { FlatList } from "react-native"
-import { FruitCard } from "./FruitCard"
 import { Component } from "react";
+import { FruitCard } from "../FruitCard";
 
 export class FruitList extends Component {
 
